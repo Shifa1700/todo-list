@@ -1,0 +1,14 @@
+body.dark {
+  background-color: #121212;
+  color: #f8f9fa;
+}
+
+body.dark .glass-card {
+  background: rgba(30, 30, 30, 0.6);
+  box-shadow: 0 8px 32px rgba(255, 105, 180, 0.4);
+}
+
+body.dark .list-group-item {
+  background: rgba(40, 40, 40, 0.6);
+  color: #f8f9fa;
+}
